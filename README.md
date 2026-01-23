@@ -9,9 +9,11 @@
 🔗 **LinkedIn:** [https://www.linkedin.com/in/divya-hirpara-364510304/](https://www.linkedin.com/in/divya-hirpara-364510304/)
 
 
+
 ## 🌟 About Me
 
 I am a motivated Cybersecurity student with a strong interest in securing systems, networks, and applications from cyber threats. I have hands-on exposure to ethical hacking, malware analysis (proof of concept), network security, and cybersecurity tools. I am eager to begin my career in cybersecurity and continuously enhance my defensive security skills.
+
 
 
 ## 🎓 Education
@@ -52,7 +54,7 @@ Veer Narmad South Gujarat University (VNSGU), Surat, India
 
 
 
-📂 **Projects**
+## 📂 Projects
 
 ### 🔍 MobiSync – Mobile Malware (Proof of Concept) | *2025*
 
@@ -67,6 +69,7 @@ Veer Narmad South Gujarat University (VNSGU), Surat, India
 > ⚠️ *This project is intended strictly for educational and security research purposes.*
 
 
+
 ## 📜 Certifications
 
 * Assets, Threats, and Vulnerabilities – Coursera
@@ -76,6 +79,7 @@ Veer Narmad South Gujarat University (VNSGU), Surat, India
 * Introduction to Cybersecurity Tools & Cyberattacks – Coursera
 
 
+
 ## 🌍 Languages
 
 * English
@@ -83,9 +87,11 @@ Veer Narmad South Gujarat University (VNSGU), Surat, India
 * Gujarati
 
 
+
 ## 🎯 Career Objective
 
 To secure an entry-level role or internship in Cybersecurity where I can apply my technical knowledge, strengthen my defensive security skills, and contribute to protecting systems and networks from cyber threats.
+
 
 
 ## 🎨 Interests
