@@ -6,7 +6,7 @@
 📧 **Email:** [divyahirpara04@gmail.com](mailto:divyahirpara04@gmail.com)
 📞 **Phone:** +91-7041916613
 🔗 **GitHub:** [https://github.com/divuproject](https://github.com/divuproject)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/divya-hirpara-364510304/](https://www.linkedin.com/in/divya-hirpara-364510304/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/divya-hirpara](https://www.linkedin.com/in/divya-hirpara/)
 
 
 
